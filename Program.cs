@@ -7,7 +7,7 @@ namespace Arte
         static void Main(string[] args)
         {
             Console.ForegroundColor=ConsoleColor.DarkGreen;
-            Console.WriteLine("Tecle ENTER para ver a Arciiart");
+            Console.WriteLine("Tecle ENTER para ver a Asciiart");
             Console.ForegroundColor=ConsoleColor.DarkRed;
             Console.ReadKey();
             Console.WriteLine(" ||  ||");
